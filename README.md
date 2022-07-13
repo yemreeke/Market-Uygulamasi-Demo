@@ -1,44 +1,26 @@
-# Getting Started with Create React App
+# Market Uygulaması Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
+Projeyi çalıştırmak için aşağıdaki komutları kullanmalısınız.
 ## 1 -  `npm install`
 ## 2 -  `npm start`
 
-## New Terminal
+## Yeni terminal açıp
 ## 1 -  `npx json-server --watch Veri.json --port 3001`
 
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# PROJEYE AİT GÖRÜNTÜLER
+<img src="Screens/1.png">  
+<img src="Screens/2.png">  
+<img src="Screens/3.png">  
+<img src="Screens/4.png">  
+<img src="Screens/5.png">  
+<img src="Screens/6.png">  
+<img src="Screens/7.png">  
+<img src="Screens/8.png">  
+<img src="Screens/9.png">  
+<img src="Screens/10.png">  
+<img src="Screens/11.png">  
+<img src="Screens/12.png">  
+<img src="Screens/13.png">  
+<img src="Screens/14.png">  
+<img src="Screens/15.png">  
+<img src="Screens/16.png">  
