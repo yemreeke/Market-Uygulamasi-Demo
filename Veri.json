@@ -1,0 +1,96 @@
+{
+    "urunler" : [
+        {
+            "id":1,
+            "kategoriId":1,
+            "urunAdi":"Monster Abra A5 17.1",
+            "fiyat":17000,
+            "stok":8
+        }, 
+        {
+            "id":2,
+            "kategoriId":1,
+            "urunAdi":"Monster Abra A5 17.2",
+            "fiyat":19000,
+            "stok":5
+        }, 
+        {
+            "id":3,
+            "kategoriId":2,
+            "urunAdi":"Gamepower Bane ",
+            "fiyat":250,
+            "stok":12
+        }, 
+        {
+            "id":4,
+            "kategoriId":2,
+            "urunAdi":"Logitech G304",
+            "fiyat":460,
+            "stok":23
+        }, 
+        {
+            "id":5,
+            "kategoriId":3,
+            "urunAdi":"Philips SPK8404",
+            "fiyat":499,
+            "stok":14
+        }, 
+        {
+            "id":6,
+            "kategoriId":3,
+            "urunAdi":"Logitech G213",
+            "fiyat":553,
+            "stok":28
+        }, 
+        {
+            "id":7,
+            "kategoriId":4,
+            "urunAdi":"ASUS VP228HE 21,5",
+            "fiyat":2012,
+            "stok":6
+        }, 
+        {
+            "id":8,
+            "kategoriId":4,
+            "urunAdi":"LG 27GL650F-B 27,0",
+            "fiyat":4999,
+            "stok":17
+        }, 
+        {
+            "id":9,
+            "kategoriId":5,
+            "urunAdi":"James Donkey 711",
+            "fiyat":299,
+            "stok":27
+        }, 
+        {
+            "id":10,
+            "kategoriId":5,
+            "urunAdi":"HyperX Cloud II",
+            "fiyat":928,
+            "stok":7
+        } 
+    ],
+    "kategoriler":[
+        {
+            "id":1,
+            "kategoriIsmi":"Bilgisayar"
+        },
+        {
+            "id":2,
+            "kategoriIsmi":"Fare"
+        },
+        {
+            "id":3,
+            "kategoriIsmi":"Klavye"
+        },
+        {
+            "id":4,
+            "kategoriIsmi":"Monitör"
+        },
+        {
+            "id":5,
+            "kategoriIsmi":"Kulaklık"
+        }
+    ]
+}
